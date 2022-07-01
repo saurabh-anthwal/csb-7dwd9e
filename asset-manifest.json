@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/js/main.def4d1e5.chunk.js",
+    "main.js.map": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/js/main.def4d1e5.chunk.js.map",
+    "runtime-main.js": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/js/runtime-main.7f8273f8.js",
+    "runtime-main.js.map": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/js/runtime-main.7f8273f8.js.map",
+    "static/js/2.8ca06b78.chunk.js": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/js/2.8ca06b78.chunk.js",
+    "static/js/2.8ca06b78.chunk.js.map": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/js/2.8ca06b78.chunk.js.map",
+    "index.html": "https://saurabh-anthwal.github.io/csb-7dwd9e/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8ca06b78.chunk.js.LICENSE.txt": "https://saurabh-anthwal.github.io/csb-7dwd9e/static/js/2.8ca06b78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f8273f8.js",
+    "static/js/2.8ca06b78.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.def4d1e5.chunk.js"
+  ]
+}
